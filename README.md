@@ -22,4 +22,4 @@ Esse script foi desenvolvido para seguir 30 usuários em um intervalo de tempo d
 1. Deixe ele seguir apenas 30 pessoas por hora;
 2. Não siga mais de 7500 pessoas;
 
-*Caso queira arriscar! Siga apenas 20 a 60 usuários por hora, e um máximo de 100-200 usuários em um dia!*
+*Caso queira arriscar! Siga apenas 40 a 60 usuários por hora, e um máximo de 100-200 usuários em um dia!*
